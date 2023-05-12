@@ -1,0 +1,1 @@
+mintapi @ git+https://github.com/beauvankirk/mintapi.git@v2.0-tweak
